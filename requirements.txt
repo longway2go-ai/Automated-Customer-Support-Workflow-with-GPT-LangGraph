@@ -1,0 +1,5 @@
+openai
+langgraph
+python-dotenv
+pydantic
+typing-extensions
